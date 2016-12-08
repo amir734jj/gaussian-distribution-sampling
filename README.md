@@ -9,7 +9,9 @@ Attempt of sampling Gaussian using Inverse transform sampling
        int[] test = Gaussian.test();
 
 DiscreteRandom class, failure to simulate gaussian distribution:
+
 ![DiscreteRandom class, failure to simulate gaussian distribution](https://s18.postimg.org/g9ryf5xix/Screenshot_from_2016_12_04_18_51_47.png)
 
-Gaussian class, success
+Gaussian class, success:
+
 ![Gaussian class, success](https://s27.postimg.org/xyj56nu0z/Screenshot_from_2016_12_07_21_16_05.png)
